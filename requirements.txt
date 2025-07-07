@@ -1,0 +1,9 @@
+transformers
+datasets
+gradio
+torchtext
+torch
+sqlparse
+nltk
+sqlalchemy
+accelerate
